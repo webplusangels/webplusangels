@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lee Hongmin 이홍민
+# 🙋‍♂️ Hi, I’m Hongmin
 
 > 분야를 가리지 않고 기술 그 자체에 흥미를 느끼며, 다양한 관심을 깊이 있게 탐구하는 신입 개발자입니다.
 
@@ -19,6 +19,9 @@
 - **Description:**  
   A comprehensive game service web application that provides game and discount information, and helps users find gaming teammates via Discord integration.
 - **Backend Repo:** [100-hours-a-week/9-team-gudokjohayo-warab-be](https://github.com/100-hours-a-week/9-team-gudokjohayo-warab-be)
+- **Pipeline Repo:** [game-pricing-pipeline](https://github.com/webplusangels/game-pricing-pipeline)
+
+### []()
 
 ---
 
