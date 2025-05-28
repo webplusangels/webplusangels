@@ -27,9 +27,9 @@
 
 ## 🎵 About Me
 
-- I love music and often find inspiration for coding from my favorite tracks.
 - Always curious, always learning.
 - [Apple Music](https://music.apple.com/profile/webangels)
+- [Instagram](https://instagram.com/nimwver)
 
 ---
 
